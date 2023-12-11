@@ -1,0 +1,4 @@
+build
+clean_folder
+dist
+test_garbage_folder_etalon
